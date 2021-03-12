@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NelliTukhtametova
+- 🌱 I’m currently learning moscow coding school
+- 📫 How to reach me nellitukhtametova@gmail.com
