@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @NelliTukhtametova
-- 🌱 I’m currently learning moscoding.com
+- 🌱 I’m currently learning moscoding.ru
+- 
 - 📫 How to reach me nellitukhtametova@gmail.com
